@@ -26,9 +26,9 @@
 
 （2）传统目标类别检测则通过使用 AdaBoost算法框架、HOG特征和支持向量机等方法，根据选定的特征和分类器，检测出有限的几种类别。使用特征检测+分类框架做目标检测，实际上属于浅层次的智能方法，通常也分为连个阶段：训练阶段和识别应用阶段。这类方法额特征检测大多数采用计算机视觉桑的角点检测，特征直方图等。传统的目标类别检测局限性在于手工的特征选取，已经分类算法的高复杂度上，
 
-![1547566978315](D:\hp\github\everyday\yswork\%5CUsers%5Chp%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1547566978315.png)
+![1547566978315](01.png)
 
-![1547567021128](D:\hp\github\everyday\yswork\%5CUsers%5Chp%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1547567021128.png)
+![1547567021128](02.png)
 
 传统方法的缺点：
 
